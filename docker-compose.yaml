@@ -1,0 +1,5 @@
+services:
+  clamav:
+    build: .
+    volumes:
+      - ./files_to_scan:/files_to_scan
