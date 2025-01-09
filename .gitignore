@@ -1,0 +1,11 @@
+.vscode/
+
+.idea/
+*.iml
+
+.spyderproject
+.spyproject
+
+*.sublime-project
+*.sublime-workspace
+
